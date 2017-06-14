@@ -15,4 +15,5 @@
 # If you want to use XFCE config tools...
 #
 #xfce-mcs-manager &
-hsetroot -solid "#000000"
+hsetroot -solid "#0a0a0a" &
+xscreensaver -nosplash &
