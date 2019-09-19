@@ -2,5 +2,5 @@
 
 basedir=$(dirname "$0")
 cd "$basedir"
-cp -rv rootfs/* /
+sudo cp -rv rootfs/* /
 . ./install-dotfiles.sh
